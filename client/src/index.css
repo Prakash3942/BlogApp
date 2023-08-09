@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+}
+.header {
+  background-color: #527da7 !important;
+}
+.button {
+  background-color: #527da7 !important;
+}
+.userblog {
+  text-align: center;
+  margin-top: 5rem;
+}
